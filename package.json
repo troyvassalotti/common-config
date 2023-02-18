@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "@troyv/common-config",
+  "version": "1.0.0",
+  "description": "Common configuration files I use in projects.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/troyvassalotti/common-config.git"
+  },
+  "author": "Troy Vassalotti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/troyvassalotti/common-config/issues"
+  },
+  "homepage": "https://github.com/troyvassalotti/common-config#readme"
+}
