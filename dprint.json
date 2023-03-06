@@ -18,9 +18,7 @@
         "useTabs": true
     },
     "typescript": {
-        "arrowFunction": {
-            "useParentheses": "force"
-        },
+        "arrowFunction.useParentheses": "force",
         "quoteProps": "asNeeded",
         "quoteStyle": "preferDouble",
         "useTabs": true
