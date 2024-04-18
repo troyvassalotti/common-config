@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "@troyv/common-config",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Common configuration files I use in projects.",
   "repository": {
     "type": "git",
